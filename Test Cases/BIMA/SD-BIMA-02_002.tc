@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Periksa Fungsi Button Kunjungi Website</description>
+   <name>SD-BIMA-02_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0ee11731-2eef-404b-95ba-0e9f1013682b</testCaseGuid>
+</TestCaseEntity>

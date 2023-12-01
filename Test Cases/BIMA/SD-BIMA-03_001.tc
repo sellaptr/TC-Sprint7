@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Lihat Profil</description>
+   <name>SD-BIMA-03_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5e1e1c4-7a9a-435d-8910-9cd754e2ac5e</testCaseGuid>
+</TestCaseEntity>
